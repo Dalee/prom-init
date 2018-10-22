@@ -8,7 +8,7 @@ Example:
 package main
 
 import (
-	_ "github.com/Dalee/prom_init"
+	_ "github.com/Dalee/prom-init"
 	"time"
 )
 
